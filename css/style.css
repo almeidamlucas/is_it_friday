@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+}
+
+header{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font: normal 30px Arial;
+}
+
+section{
+    background-color: rgba(226, 224, 224, 0.952);
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font: normal 40px Arial;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.6);
+}
+
+footer{
+    text-align: center;
+    margin: 10px;
+}
